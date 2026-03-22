@@ -1,4 +1,6 @@
-Zespół:
-Jakub Wołczyński
-Maja Lamch
-Paweł Bączek
+# 🤿 Szkoła nurkowania 🤿
+
+## Zespół:
+* 💧**Jakub Wołczyński** - Team Leader
+* 💧**Maja Lamch** - Analityk/Developer
+* 💧**Paweł Bączek** - Analityk/Developer
