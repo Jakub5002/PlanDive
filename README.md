@@ -43,22 +43,22 @@ Na podstawie zebranych 20 odpowiedzi od grupy docelowej (właściciele szkół, 
 
 ### Tabela oraz wykresy
 
-* Tabela odpowiedzi
+* ### Tabela odpowiedzi
 ![Tabela odpowiedzi](img/TabelaAnkieta.png)
 
-* Wyniki dla: Kalendarz
+* ### Wyniki dla: Kalendarz
 ![Wyniki dla kalendarza](img/Kalendarz.png)
 
-* Wyniki dla: SMS 
+* ### Wyniki dla: SMS 
 ![Wyniki dla SMS](img/SMS.png)
 
-* Wyniki dla: Baza Certyfikatów
+* ### Wyniki dla: Baza Certyfikatów
 ![Wyniki dla Baza certyfikatów](img/SMS.png)
 
-* Wyniki dla: Rezerwacja Sprzętu
+* ### Wyniki dla: Rezerwacja Sprzętu
 ![Wyniki dla Rezerwacji sprzętu](img/RezerwacjaSprzętu.png)
 
-* Wyniki dla: Blokada wpisu bez ważnych badań lekarskich
+* ### Wyniki dla: Blokada wpisu bez ważnych badań lekarskich
 ![Wyniki dla Blokada Wpisu](img/BlokadaWpisu.png)
 
 Na podstawie przeprowadzonych zebranych wymagań użytkowników stworzono historyjki uzytkowników. Znajdują sie one w folderze documents w formie graficznej przy pomocy Miro.
