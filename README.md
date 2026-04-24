@@ -61,4 +61,5 @@ Na podstawie zebranych 20 odpowiedzi od grupy docelowej (właściciele szkół, 
 * ### Wyniki dla: Blokada wpisu bez ważnych badań lekarskich
 ![Wyniki dla Blokada Wpisu](img/BlokadaWpisu.png)
 
-Na podstawie przeprowadzonych zebranych wymagań użytkowników stworzono historyjki uzytkowników. Znajdują sie one w folderze documents w formie graficznej przy pomocy Miro.
+## Podsumowanie części 1
+Na podstawie zebranych wymagań użytkowników stworzono historyjki uzytkowników oraz kryteria akceptacji. Histroyjki użytkowników znajdują sie w folderze documents w postaci graficznej utworzene w Miro natomiast kryteria akceptacji znajdują się w tym samym folderze w pliku KryteriaAkceptacji.txt.
