@@ -29,7 +29,7 @@ Powoduje to:
 - brak aktualnych informacji
 
 PlanDive rozwiązuje te problemy poprzez centralny system zarządzania.
-
+# Część 1
 ## Ankiety potrzeb uzytkownika
 
 ### Ankieta: https://forms.gle/jVBPXQEry4BEAxrD7
