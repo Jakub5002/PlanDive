@@ -30,7 +30,7 @@ Powoduje to:
 
 PlanDive rozwiązuje te problemy poprzez centralny system zarządzania.
 # Część 1
-## Ankiety potrzeb uzytkownika
+## Ankiety potrzeb użytkownika
 
 ### Ankieta: https://forms.gle/jVBPXQEry4BEAxrD7
 
@@ -53,7 +53,7 @@ Na podstawie zebranych 20 odpowiedzi od grupy docelowej (właściciele szkół, 
 ![Wyniki dla SMS](img/SMS.png)
 
 * ### Wyniki dla: Baza Certyfikatów
-![Wyniki dla Baza certyfikatów](img/SMS.png)
+![Wyniki dla Baza certyfikatów](img/BazCertyfikatow.png)
 
 * ### Wyniki dla: Rezerwacja Sprzętu
 ![Wyniki dla Rezerwacji sprzętu](img/RezerwacjaSprzętu.png)
@@ -63,3 +63,19 @@ Na podstawie zebranych 20 odpowiedzi od grupy docelowej (właściciele szkół, 
 
 ## Podsumowanie części 1
 Na podstawie zebranych wymagań użytkowników stworzono historyjki uzytkowników oraz kryteria akceptacji. Histroyjki użytkowników znajdują sie w folderze documents w postaci graficznej utworzene w Miro natomiast kryteria akceptacji znajdują się w tym samym folderze w pliku KryteriaAkceptacji.txt.
+
+# Część 2
+
+W tej części projketu zajeliśmy się rozszerzeniem kryteriów akceptcji oraz utworzenie scenariuszy testowych w formacie GWT. Utworzone zostały również diagramy aktywności oraz jego wizualizacje w postaci interaktywnego prototypu interfejsu w wersji low. 
+
+### Kryteria akceptacji
+
+### Scenariusze testowe
+
+### Diagramy aktywności
+Diagramy aktywności znajudją w folderze documents/Diagramy. Obejmują następujące akytwności:
+* Dodawanie instruktora do kursu przez administratora,
+* Zapis kursanta na wybrany kurs ze sprawdzaniem ważności badań lekarskich,
+* System powiadamiania o zmianie miejsca oraz daty odbywanych zajęć spowodowane warunkami pogodowymi.
+
+### Interaktywny prototyp interfejsu
