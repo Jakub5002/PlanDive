@@ -68,9 +68,8 @@ Na podstawie zebranych wymagań użytkowników stworzono historyjki uzytkownikó
 
 W tej części projketu zajeliśmy się rozszerzeniem kryteriów akceptcji oraz utworzenie scenariuszy testowych w formacie GWT. Utworzone zostały również diagramy aktywności oraz jego wizualizacje w postaci interaktywnego prototypu interfejsu w wersji low. 
 
-### Kryteria akceptacji
-
-### Scenariusze testowe
+### Kryteria akceptacji i Scenariusze testowe
+Kryteria akceptacji oraz scenariusze testowe znajdują się w folderze documents.
 
 ### Diagramy aktywności
 Diagramy aktywności znajudją w folderze documents/Diagramy. Obejmują następujące akytwności:
