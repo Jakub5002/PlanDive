@@ -62,19 +62,31 @@ Na podstawie zebranych 20 odpowiedzi od grupy docelowej (właściciele szkół, 
 ![Wyniki dla Blokada Wpisu](img/BlokadaWpisu.png)
 
 ## Podsumowanie części 1
-Na podstawie zebranych wymagań użytkowników stworzono historyjki uzytkowników oraz kryteria akceptacji. Histroyjki użytkowników znajdują sie w folderze documents w postaci graficznej utworzene w Miro natomiast kryteria akceptacji znajdują się w tym samym folderze w pliku KryteriaAkceptacji.txt.
+Na podstawie zebranych wymagań użytkowników stworzono historyjki uzytkowników oraz kryteria akceptacji. Histroyjki użytkowników znajdują sie w folderze `documents` w postaci graficznej utworzene w Miro natomiast kryteria akceptacji znajdują się w tym samym folderze w pliku `KryteriaAkceptacji.md`.
 
 # Część 2
 
-W tej części projketu zajeliśmy się rozszerzeniem kryteriów akceptcji oraz utworzenie scenariuszy testowych w formacie GWT. Utworzone zostały również diagramy aktywności oraz jego wizualizacje w postaci interaktywnego prototypu interfejsu w wersji low. 
+W tej części projektu zajęliśmy się rozszerzeniem kryteriów akceptacji oraz utworzeniem scenariuszy testowych w formacie GWT (Given–When–Then). Opracowane zostały również diagramy aktywności oraz ich wizualizacje w postaci interaktywnego prototypu interfejsu w wersji low-fi.
 
-### Kryteria akceptacji i Scenariusze testowe
-Kryteria akceptacji oraz scenariusze testowe znajdują się w folderze documents.
+## Kryteria akceptacji i scenariusze testowe
 
-### Diagramy aktywności
-Diagramy aktywności znajudją w folderze documents/Diagramy. Obejmują następujące akytwności:
-* Dodawanie instruktora do kursu przez administratora,
-* Zapis kursanta na wybrany kurs ze sprawdzaniem ważności badań lekarskich,
-* System powiadamiania o zmianie miejsca oraz daty odbywanych zajęć spowodowane warunkami pogodowymi.
+Kryteria akceptacji oraz scenariusze testowe znajdują się w folderze `documents`.
 
-### Interaktywny prototyp interfejsu
+## Diagramy aktywności
+
+Diagramy aktywności znajdują się w folderze `documents/Diagramy`. Obejmują one następujące procesy:
+
+- dodawanie instruktora do kursu przez administratora,
+- zapis kursanta na wybrany kurs ze sprawdzaniem ważności badań lekarskich,
+- system powiadamiania o zmianie miejsca oraz daty zajęć spowodowanej warunkami pogodowymi.
+
+## Interaktywny prototyp interfejsu
+
+Prototyp interfejsu w wersji low-fi znajduje się w folderze `documents`. Obejmuje on:
+
+- logowanie użytkownika jako administrator, instruktor lub kursant,
+- przełączanie pomiędzy zakładkami (np. Logowanie -> Kursy -> Kalendarz -> Dokumenty),
+- formularz zapisu na kursy.
+
+## Podsumowanie części 2
+Na podstawie rozszerzonych kryteriów akceptacji opracowano scenariusze testowe w formacie GWT (Given–When–Then), które umożliwiają weryfikację poprawności działania systemu. Dodatkowo przygotowano diagramy aktywności opisujące kluczowe procesy biznesowe oraz interaktywny prototyp interfejsu w wersji low-fi, pozwalający na zapoznanie się z podstawową nawigacją i funkcjonalnością aplikacji. Wszystkie materiały zostały umieszczone w folderze `documents`.
