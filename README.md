@@ -90,3 +90,8 @@ Prototyp interfejsu w wersji low-fi znajduje się w folderze `documents`. Obejmu
 
 ## Podsumowanie części 2
 Na podstawie rozszerzonych kryteriów akceptacji opracowano scenariusze testowe w formacie GWT (Given–When–Then), które umożliwiają weryfikację poprawności działania systemu. Dodatkowo przygotowano diagramy aktywności opisujące kluczowe procesy biznesowe oraz interaktywny prototyp interfejsu w wersji low-fi, pozwalający na zapoznanie się z podstawową nawigacją i funkcjonalnością aplikacji. Wszystkie materiały zostały umieszczone w folderze `documents`.
+
+# Część 3
+W tej części projektu w pierwszej fazie zajeliśmy się badaniem interfejsu w gronie użytkowników. Następnie na podstawie otrzymanego feedbacku przeszliśmy do stworzenie prototypu UI/UX. W tej fazie projektu zajeliśmy się również utworzeniem diagramów sekwencji, diagramów klas oraz schematem arichitektury.
+
+Wszystkie wymaga dokumenty znajdują w folderze `documents`.
