@@ -114,3 +114,4 @@ Diagramy Sekwencji obejmują:
 - zmiana zajęć 
 
 ## Diagramy klas
+Na podstawie prototypu UI utworzono diagram przedstawiający całkowitą architekturą systemu. Została ona rozwinięta poprzez diagramy klas. Diagramy obejmują wszystkie funkcjonalności potrzebne do zaimplementowania aplikacji i określają relacje między klasami. W celu lepszej przejrzystości zostały podzielone na kilka plików umieszczonych w folderze `documents/DiagramyKlas`.
