@@ -95,3 +95,22 @@ Na podstawie rozszerzonych kryteriów akceptacji opracowano scenariusze testowe 
 W tej części projektu w pierwszej fazie zajeliśmy się badaniem interfejsu w gronie użytkowników. Następnie na podstawie otrzymanego feedbacku przeszliśmy do stworzenie prototypu UI/UX. W tej fazie projektu zajeliśmy się również utworzeniem diagramów sekwencji, diagramów klas oraz schematem arichitektury.
 
 Wszystkie wymaga dokumenty znajdują w folderze `documents`.
+
+## Prototyp UI
+Prototyp UI znajduje się w folderze `documents`, na podstawie otrzymanego feedbacku zauważono:
+- część użytkowników miała trudności z odnalezieniem funkcji wgrywania dokumentów,
+- brak jednoznacznych komunikatów potwierdzających wykonanie operacji,
+- nieintuicyjne rozmieszczenie niektórych elementów menu,
+- system prezentował nieintuicyjny przycisk zapisu w przypadku braku ważnych badań lekarskich,
+- wielu użytkowników oczekiwało trybu ciemnego aplikacji.
+
+
+## Diagramy sekwencji
+Diagramy Sekwencji obejmują:
+- logowanie użytkownika
+- zapis kursanta na kurs
+- przypisanie instruktora do kursu
+- dodawanie badan lekarskich
+- zmiana zajęć 
+
+## Diagramy klas
