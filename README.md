@@ -1,5 +1,5 @@
 # 🤿 PlanDive 🤿
-
+![Logo](img/Logo.png)
 ## Zespół:
 * 💧**Jakub Wołczyński** - Team Leader
 * 💧**Maja Lamch** - Analityk/Developer
