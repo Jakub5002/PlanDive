@@ -34,6 +34,7 @@ public class UstawieniaAplikacji {
         }
     }
 
+    /*
     public void zarzadzajUrzadzeniami() {
         if (this.urzadzenia == null) {
             this.urzadzenia = new ArrayList<>();
@@ -46,5 +47,5 @@ public class UstawieniaAplikacji {
         while (this.urzadzenia.size() > MAX_URZADZEN) {
             this.urzadzenia.removeFirst();
         }
-    }
+    }*/
 }

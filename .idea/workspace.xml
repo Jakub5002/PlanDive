@@ -1,254 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="Dodanie części 4 do README.md">
-      <change afterPath="$PROJECT_DIR$/img/Logo.png" afterDir="false" />
+    <list default="true" id="18720468-1388-420c-8b43-5bdec76955e4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Jakub5002&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Jakub5002/PlanDive.git&quot;,
-    &quot;accountId&quot;: &quot;f6084de4-7da5-4be9-988e-8aa187f2915c&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
 }</component>
-  <component name="ProjectId" id="3FAWOwfFBUyYLZ3lghratQYECHh" />
+  <component name="ProjectId" id="3FAWps5pyuo4Yw3Uj83NfqizdMG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.KursTest.executor": "Debug",
-    "JUnit.SerwisHarmonogramuTest.executor": "Run",
-    "JUnit.SerwisInstruktorowTest.executor": "Run",
-    "JUnit.SerwisInstruktorowTest.testPobieranieKwalifikacji.executor": "Run",
-    "JUnit.SesjaUzytkownikaTest.executor": "Run",
-    "JUnit.SystemKursowTest.executor": "Run",
-    "JUnit.SystemZapisowTest.executor": "Run",
-    "JUnit.UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu.executor": "Run",
-    "Maven. [test].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Studia/Semestr 4/Java/W domu/PlanDive/img",
+    "last_opened_file_path": "C:/Users/bacze/PlanDive",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.28998852",
-    "vue.rearranger.settings.migration": "true"
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.28998852"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\Desktop\Studia\Semestr 4\Java\W domu\PlanDive\img" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.KursTest">
-    <configuration name="KursTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EntitiesTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="EntitiesTests" />
-      <option name="MAIN_CLASS_NAME" value="EntitiesTests.KursTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SerwisHarmonogramuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Services_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SerwisHarmonogramuTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SystemKursowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Services_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SystemKursowTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SystemZapisowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Services_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SystemZapisowTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EntitiesTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="EntitiesTests" />
-      <option name="MAIN_CLASS_NAME" value="EntitiesTests.UstawieniaAplikacjiTest" />
-      <option name="METHOD_NAME" value="zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.KursTest" />
-        <item itemvalue="JUnit.SerwisHarmonogramuTest" />
-        <item itemvalue="JUnit.SystemZapisowTest" />
-        <item itemvalue="JUnit.SystemKursowTest" />
-        <item itemvalue="JUnit.UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="" />
-      <created>1781518325409</created>
+      <changelist id="18720468-1388-420c-8b43-5bdec76955e4" name="Changes" comment="" />
+      <created>1781518539371</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1781518325409</updated>
-      <workItem from="1781518326761" duration="230000" />
-      <workItem from="1781518584723" duration="1156000" />
-      <workItem from="1781519763608" duration="279000" />
-      <workItem from="1781520070124" duration="4114000" />
-      <workItem from="1781533646894" duration="37000" />
-      <workItem from="1781545766375" duration="56000" />
+      <updated>1781518539371</updated>
     </task>
-    <task id="LOCAL-00001" summary="Dodanie depedency i serwisu Instruktorow">
-      <option name="closed" value="true" />
-      <created>1781520242730</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1781520242730</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Dodanie depedency i serwisu Instruktorow">
-      <option name="closed" value="true" />
-      <created>1781520255900</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1781520255900</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Dodanie Serwisów oraz testów">
-      <option name="closed" value="true" />
-      <created>1781522721156</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1781522721156</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Usunięcie zbędnych plików">
-      <option name="closed" value="true" />
-      <created>1781523224116</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1781523224116</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Dodanie części 4 do README.md">
-      <option name="closed" value="true" />
-      <created>1781524189089</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1781524189089</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dodanie depedency i serwisu Instruktorow" />
-    <MESSAGE value="Dodanie Serwisów oraz testów" />
-    <MESSAGE value="Usunięcie zbędnych plików" />
-    <MESSAGE value="Dodanie części 4 do README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodanie części 4 do README.md" />
   </component>
 </project>
