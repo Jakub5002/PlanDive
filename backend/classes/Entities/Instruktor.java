@@ -1,3 +1,5 @@
+package Entities;
+
 public class Instruktor extends Uzytkownik {
     private String legitymacja;
     private String uprawnieniaEgzaminatora;

@@ -1,3 +1,5 @@
+package Entities;
+
 public abstract class Uzytkownik {
     private Long id;
     private String email;

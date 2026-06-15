@@ -1,3 +1,5 @@
+package Entities;
+
 public class Administrator extends Uzytkownik {
 
     public Administrator() {

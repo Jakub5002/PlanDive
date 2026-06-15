@@ -1,5 +1,9 @@
+package Datas;
+import Entities.*;
+
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class BazaUzytkownikow {
 
@@ -13,11 +17,11 @@ public class BazaUzytkownikow {
     public boolean sprawdzDaneLogowania(String login, String haslo) {
         return znajdzUzytkownika(login, haslo) != null;
     }
-
-    public PreferencjePowiadomien pobierzPreferencje(Long userId) {
-
-        return uzytkownicy.stream().filter(u -> u.getId().equals(userId)).findFirst().map(Uzytkownik::getPreferencjePowiadomien).orElse(null);
-    }
+//
+//    public PreferencjePowiadomien pobierzPreferencje(Long userId) {
+//
+//        return uzytkownicy.stream().filter(u -> u.getId().equals(userId)).findFirst().map(Uzytkownik::getPreferencjePowiadomien).orElse(null);
+//    }
 
     public void dodajUzytkownika(Uzytkownik uzytkownik) {
         uzytkownicy.add(uzytkownik);

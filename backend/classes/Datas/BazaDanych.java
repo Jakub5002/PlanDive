@@ -1,5 +1,8 @@
+package Datas;
+
 import java.util.HashMap;
 import java.util.Map;
+
 
 public class BazaDanych {
 

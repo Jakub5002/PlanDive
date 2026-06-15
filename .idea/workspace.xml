@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="" />
+    <list default="true" id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="Dodanie depedency i serwisu Instruktorow">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/classes/Services/SerwisHarmonogramu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/classes/Services/SerwisInstruktorow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/classes/Services/SystemKursow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/classes/Services/SystemZapisow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/Services_tests/SerwisHarmonogramuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/Services_tests/SystemKursowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/Services_tests/SystemZapisowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlanDive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlanDive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Data/BazaDanych.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Datas/BazaDanych.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Data/BazaUzytkownikow.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Datas/BazaUzytkownikow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Data/RepozytoriumPlikow.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Datas/RepozytoriumPlikow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Entites.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/GrupaZajeciowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/GrupaZajeciowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Instruktor.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/Instruktor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Kalendarz.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/Kalendarz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Kurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/Kurs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Kursant.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/Kursant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/SesjaUzytkownika.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/SesjaUzytkownika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/StatusZapisu.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/StatusZapisu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/UstawieniaAplikacji.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/UstawieniaAplikacji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Uzytkownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/Uzytkownik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/Zajecia.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/Zajecia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Entities/ZapisKursanta.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/classes/Entities/ZapisKursanta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/classes/Services/SerwisInstuktorow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/EntitiesTests/KursTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/EntitiesTests/KursTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/EntitiesTests/SesjaUzytkownikaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/EntitiesTests/SesjaUzytkownikaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/EntitiesTests/UstawieniaAplikacjiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/EntitiesTests/UstawieniaAplikacjiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/EntitiesTests/ZajeciaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/EntitiesTests/ZajeciaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/EntitiesTests/ZapisKursantaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/EntitiesTests/ZapisKursantaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/Services_tests/SerwisInstruktorowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlanDive/Data/Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlanDive/Entities/Entites.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlanDive/Services/Service.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlanDive/Services/SerwisInstuktorow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PlanDive/Services_tests/SerwisInstruktorowTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +79,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.SerwisInstruktorowTest.executor": "Debug",
+    "JUnit.KursTest.executor": "Run",
+    "JUnit.SerwisInstruktorowTest.executor": "Run",
     "JUnit.SerwisInstruktorowTest.testPobieranieKwalifikacji.executor": "Run",
+    "JUnit.SesjaUzytkownikaTest.executor": "Run",
+    "JUnit.SystemKursowTest.executor": "Run",
+    "JUnit.SystemZapisowTest.executor": "Run",
+    "JUnit.UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -49,18 +93,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.28998852",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.SerwisInstruktorowTest">
-    <configuration name="SerwisInstruktorowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SerwisHarmonogramuTest">
+    <configuration name="SerwisHarmonogramuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PlanDive" />
       <extension name="coverage">
         <pattern>
@@ -69,13 +114,28 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SerwisInstruktorowTest" />
+      <option name="MAIN_CLASS_NAME" value="Services_tests.SerwisHarmonogramuTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerwisInstruktorowTest.testPobieranieKwalifikacji" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SesjaUzytkownikaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlanDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EntitiesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="EntitiesTests" />
+      <option name="MAIN_CLASS_NAME" value="EntitiesTests.SesjaUzytkownikaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemKursowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PlanDive" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +144,38 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SerwisInstruktorowTest" />
-      <option name="METHOD_NAME" value="testPobieranieKwalifikacji" />
+      <option name="MAIN_CLASS_NAME" value="Services_tests.SystemKursowTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemZapisowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlanDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Services_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Services_tests" />
+      <option name="MAIN_CLASS_NAME" value="Services_tests.SystemZapisowTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlanDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EntitiesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="EntitiesTests" />
+      <option name="MAIN_CLASS_NAME" value="EntitiesTests.UstawieniaAplikacjiTest" />
+      <option name="METHOD_NAME" value="zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,8 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SerwisInstruktorowTest" />
-        <item itemvalue="JUnit.SerwisInstruktorowTest.testPobieranieKwalifikacji" />
+        <item itemvalue="JUnit.SerwisHarmonogramuTest" />
+        <item itemvalue="JUnit.SystemZapisowTest" />
+        <item itemvalue="JUnit.SystemKursowTest" />
+        <item itemvalue="JUnit.UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" />
+        <item itemvalue="JUnit.SesjaUzytkownikaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -116,11 +209,43 @@
       <workItem from="1781518326761" duration="230000" />
       <workItem from="1781518584723" duration="1156000" />
       <workItem from="1781519763608" duration="279000" />
-      <workItem from="1781520070124" duration="86000" />
+      <workItem from="1781520070124" duration="2524000" />
     </task>
+    <task id="LOCAL-00001" summary="Dodanie depedency i serwisu Instruktorow">
+      <option name="closed" value="true" />
+      <created>1781520242730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781520242730</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dodanie depedency i serwisu Instruktorow">
+      <option name="closed" value="true" />
+      <created>1781520255900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781520255900</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dodanie depedency i serwisu Instruktorow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodanie depedency i serwisu Instruktorow" />
   </component>
 </project>
