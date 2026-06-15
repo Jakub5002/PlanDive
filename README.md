@@ -115,3 +115,44 @@ Diagramy Sekwencji obejmują:
 
 ## Diagramy klas
 Na podstawie prototypu UI utworzono diagram przedstawiający całkowitą architekturą systemu. Została ona rozwinięta poprzez diagramy klas. Diagramy obejmują wszystkie funkcjonalności potrzebne do zaimplementowania aplikacji i określają relacje między klasami. W celu lepszej przejrzystości zostały podzielone na kilka plików umieszczonych w folderze `documents/DiagramyKlas`.
+
+# Część 4
+
+W tej części projektu przeszliśmy do implementacji backendu zgodnie
+z założeniami zawartymi na diagramach klas.
+Implementacja wraz z testami znajduje się w folderze `backend`.
+
+## Struktura projektu
+backend/
+
+│
+
+├── classes/          # Kod źródłowy
+
+│   ├── Entities/     # Encje domenowe
+
+│   └── Services/     # Warstwa logiki
+
+│
+
+├── tests/            # Testy jednostkowe (JUnit 5)
+
+│   ├── EntitiesTests/
+
+│   └── Services_tests/
+
+│
+
+└── pom.xml           # Konfiguracja Maven
+
+## Uruchomienie
+
+Wymagania: Java 17+, IntelliJ IDEA lub Maven
+
+**IntelliJ:** Sklonuj repo → IntelliJ wykryje `pom.xml` → Load Maven Project → `Ctrl+F9`
+
+**Maven (terminal):**
+
+`cd backend`
+
+`mvn test`
