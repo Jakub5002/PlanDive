@@ -133,6 +133,8 @@ backend/
 
 │   └── Services/     # Warstwa logiki
 
+│   └── Datas/     # Warstwa danych
+
 │
 
 ├── tests/            # Testy jednostkowe (JUnit 5)
@@ -140,6 +142,8 @@ backend/
 │   ├── EntitiesTests/
 
 │   └── Services_tests/
+
+│   └── DatasTests/
 
 │
 
