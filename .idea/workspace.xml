@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="Dodanie części 4 do README.md">
-      <change afterPath="$PROJECT_DIR$/img/Logo.png" afterDir="false" />
+    <list default="true" id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="Dodanie logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/DatasTests/BazaDanychTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/DatasTests/BazaDanychTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/DatasTests/BazaUzytkownikowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/DatasTests/BazaUzytkownikowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tests/DatasTests/RepozytoriumPlikowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/DatasTests/RepozytoriumPlikowTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BazaDanychTest.executor": "Debug",
+    "JUnit.BazaUzytkownikowTest.executor": "Run",
+    "JUnit.BazaUzytkownikowTest.powinienZwrocicNullDlaBlednychDanych.executor": "Run",
     "JUnit.KursTest.executor": "Debug",
+    "JUnit.RepozytoriumPlikowTest.executor": "Run",
     "JUnit.SerwisHarmonogramuTest.executor": "Run",
     "JUnit.SerwisInstruktorowTest.executor": "Run",
     "JUnit.SerwisInstruktorowTest.testPobieranieKwalifikacji.executor": "Run",
@@ -78,7 +83,53 @@
       <recent name="C:\Users\Lenovo\Desktop\Studia\Semestr 4\Java\W domu\PlanDive\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KursTest">
+  <component name="RunManager" selected="JUnit.BazaDanychTest">
+    <configuration name="BazaDanychTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlanDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DatasTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DatasTests" />
+      <option name="MAIN_CLASS_NAME" value="DatasTests.BazaDanychTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BazaUzytkownikowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlanDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DatasTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DatasTests" />
+      <option name="MAIN_CLASS_NAME" value="DatasTests.BazaUzytkownikowTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BazaUzytkownikowTest.powinienZwrocicNullDlaBlednychDanych" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlanDive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DatasTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DatasTests" />
+      <option name="MAIN_CLASS_NAME" value="DatasTests.BazaUzytkownikowTest" />
+      <option name="METHOD_NAME" value="powinienZwrocicNullDlaBlednychDanych" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KursTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PlanDive" />
       <extension name="coverage">
@@ -94,74 +145,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerwisHarmonogramuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RepozytoriumPlikowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PlanDive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Services_tests.*" />
+          <option name="PATTERN" value="DatasTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SerwisHarmonogramuTest" />
+      <option name="PACKAGE_NAME" value="DatasTests" />
+      <option name="MAIN_CLASS_NAME" value="DatasTests.RepozytoriumPlikowTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SystemKursowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Services_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SystemKursowTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SystemZapisowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Services_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Services_tests" />
-      <option name="MAIN_CLASS_NAME" value="Services_tests.SystemZapisowTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PlanDive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EntitiesTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="EntitiesTests" />
-      <option name="MAIN_CLASS_NAME" value="EntitiesTests.UstawieniaAplikacjiTest" />
-      <option name="METHOD_NAME" value="zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BazaDanychTest" />
+        <item itemvalue="JUnit.BazaUzytkownikowTest" />
+        <item itemvalue="JUnit.BazaUzytkownikowTest.powinienZwrocicNullDlaBlednychDanych" />
+        <item itemvalue="JUnit.RepozytoriumPlikowTest" />
         <item itemvalue="JUnit.KursTest" />
-        <item itemvalue="JUnit.SerwisHarmonogramuTest" />
-        <item itemvalue="JUnit.SystemZapisowTest" />
-        <item itemvalue="JUnit.SystemKursowTest" />
-        <item itemvalue="JUnit.UstawieniaAplikacjiTest.zarzadzajUrzadzeniami_PowinnaUsunacDuplikaty_I_ZachowacLimitMaksymalniePieciu" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +190,8 @@
       <workItem from="1781519763608" duration="279000" />
       <workItem from="1781520070124" duration="4114000" />
       <workItem from="1781533646894" duration="37000" />
-      <workItem from="1781545766375" duration="56000" />
+      <workItem from="1781545766375" duration="254000" />
+      <workItem from="1781547058592" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="Dodanie depedency i serwisu Instruktorow">
       <option name="closed" value="true" />
@@ -227,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781524189089</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Dodanie logo">
+      <option name="closed" value="true" />
+      <created>1781545838189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781545838189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +263,7 @@
     <MESSAGE value="Dodanie Serwisów oraz testów" />
     <MESSAGE value="Usunięcie zbędnych plików" />
     <MESSAGE value="Dodanie części 4 do README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodanie części 4 do README.md" />
+    <MESSAGE value="Dodanie logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodanie logo" />
   </component>
 </project>
