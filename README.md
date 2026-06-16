@@ -4,6 +4,10 @@
 * 💧**Jakub Wołczyński** - Team Leader
 * 💧**Maja Lamch** - Analityk/Developer
 * 💧**Paweł Bączek** - Analityk/Developer
+## Linki
+
+### GitHub: https://github.com/Jakub5002/PlanDive.git
+### Project: https://github.com/users/Jakub5002/projects/4
 
 ## Wizja systemu
 
