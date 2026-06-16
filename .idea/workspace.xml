@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="Poprawienie baz">
+    <list default="true" id="ee610725-a102-4ef6-9e43-9230bc885484" name="Changes" comment="Poprawienie README.md">
+      <change afterPath="$PROJECT_DIR$/documents/Sprints/Sprint4.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PlanDive/klasa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PlanDive/tests.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Studia/Semestr 4/Java/W domu/PlanDive/img",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Studia/Semestr 4/Java/W domu/PlanDive/documents/Sprints",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -80,6 +78,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Studia\Semestr 4\Java\W domu\PlanDive\documents\Sprints" />
       <recent name="C:\Users\Lenovo\Desktop\Studia\Semestr 4\Java\W domu\PlanDive\img" />
     </key>
   </component>
@@ -191,7 +190,8 @@
       <workItem from="1781520070124" duration="4114000" />
       <workItem from="1781533646894" duration="37000" />
       <workItem from="1781545766375" duration="254000" />
-      <workItem from="1781547058592" duration="2602000" />
+      <workItem from="1781547058592" duration="3556000" />
+      <workItem from="1781596203950" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="Dodanie depedency i serwisu Instruktorow">
       <option name="closed" value="true" />
@@ -249,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781547375448</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Poprawienie README.md">
+      <option name="closed" value="true" />
+      <created>1781550487154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1781550487154</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +281,7 @@
     <MESSAGE value="Dodanie części 4 do README.md" />
     <MESSAGE value="Dodanie logo" />
     <MESSAGE value="Poprawienie baz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Poprawienie baz" />
+    <MESSAGE value="Poprawienie README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Poprawienie README.md" />
   </component>
 </project>
